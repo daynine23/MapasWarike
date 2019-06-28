@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1012797374826",
+    "firebase_url": "https://loginwarike.firebaseio.com",
+    "project_id": "loginwarike",
+    "storage_bucket": "loginwarike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012797374826:android:44d640ddfe038b74",
+        "android_client_info": {
+          "package_name": "com.example.alumno.mapas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012797374826-8dgrii2v0ah87955h47get5lc1oh4oc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alumno.mapas",
+            "certificate_hash": "6db993ad9660152c7810f38bea469abfce22b5d4"
+          }
+        },
+        {
+          "client_id": "1012797374826-mp5p45cnp8l8kmcgr6ar0p4o1a4v32ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiQg45rY6oMQi4b5XQM03GwrdYz6rek4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012797374826-mp5p45cnp8l8kmcgr6ar0p4o1a4v32ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
